@@ -1,3 +1,7 @@
+Here’s the updated README file with your information included:
+
+---
+
  Modern Login Page Project
 
  Overview
@@ -21,6 +25,9 @@ This project features a modern and responsive login page with both sign-in and s
    ```bash
    git clone <https://github.com/Bloodyidiot/loginpage>
    ```
+2. Navigate to the project directory.
+   ```bash
+   cd index.html
    ```
 2. Open the `index.html` file in your web browser.
 
@@ -41,3 +48,7 @@ This project features a modern and responsive login page with both sign-in and s
 
  License
 This project is licensed under the MIT License.
+
+---
+
+Feel free to further modify any sections as necessary! Let me know if you need any additional information or assistance.
